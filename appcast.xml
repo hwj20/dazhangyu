@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.0.1</version>
-  <url>https://github.com/YourUser/YourRepo/releases/download/v1.0.1/InterviewHelper-1.0.1-full.nupkg</url>
-  <mandatory>False</mandatory>
+  <url>https://github.com/hwj20/dazhangyu/releases/download/InterviewHelperWPFSetup.exe</url>
+  <mandatory>True</mandatory>
   <changelog>修复若干 BUG 并优化性能。</changelog>
   <pubDate>2025-06-10</pubDate>
 </item>
