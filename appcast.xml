@@ -4,7 +4,7 @@
   <url>https://github.com/hwj20/dazhangyu/releases/download/v1.0.1.0/InterviewHelperWPFSetup.exe</url>
   <mandatory>true</mandatory>
   <!-- 这里必须是一个有效的 URL -->
-  <changelog>https://raw.githubusercontent.com/hwj20/dazhangyu/main/changelog-1.0.1.html</changelog>
+  <changelog>https://raw.githack.com/hwj20/dazhangyu/main/changelog-1.0.1.html</changelog>
   <pubDate>2025-06-10</pubDate>
 </item>
 
