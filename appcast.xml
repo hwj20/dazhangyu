@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.2.0</version>
-  <url>https://github.com/hwj20/dazhangyu/releases/download/v1.0.2.0/InterviewHelperWPFSetup.exe</url>
+  <version>1.0.2.1</version>
+  <url>https://github.com/hwj20/dazhangyu/releases/download/v1.0.2.1/InterviewHelperWPFSetup.exe</url>
   <mandatory>true</mandatory>
   <!-- 这里必须是一个有效的 URL -->
   <changelog>https://rawcdn.githack.com/hwj20/dazhangyu/main/changelog-1.0.2.html</changelog>
